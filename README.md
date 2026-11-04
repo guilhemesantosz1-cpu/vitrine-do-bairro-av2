@@ -4,7 +4,7 @@ Aplicativo de Lista de Compras Inteligente para o Desafio Prático Individual (A
 
 ## Aluno
 - Nome: Guilherme Zuliani
-- RA: [preencher antes da entrega]
+- RA: 1710482421001
 
 ## Sobre o App
 Aplicativo mobile desenvolvido em React Native com Expo para organizar as compras
