@@ -154,9 +154,13 @@ funções `getShoppingList`/`saveShoppingList`, que não eram usadas por nenhuma
 
 App rodando em um dispositivo Android físico pelo Expo Go.
 
-| Comerciantes do bairro | Minha lista de compras | Produtos de um comerciante |
-| --- | --- | --- |
-| ![Lista de comerciantes carregada da API REST](docs/screenshots/home.jpg) | ![Lista com total estimado, filtros e produtos](docs/screenshots/lista.jpg) | ![Produtos filtrados pelo comerciante selecionado](docs/screenshots/comerciante.jpg) |
+| Comerciantes do bairro | Minha lista de compras |
+| --- | --- |
+| ![Lista de comerciantes carregada da API REST](docs/screenshots/home.jpg) | ![Lista com total estimado, filtros e produtos](docs/screenshots/lista.jpg) |
+
+| Produtos de um comerciante | Cadastro de produto |
+| --- | --- |
+| ![Produtos filtrados pelo comerciante selecionado](docs/screenshots/comerciante.jpg) | ![Formulário com os campos e a escolha do comerciante](docs/screenshots/formulario.jpg) |
 
 Repare na diferença entre a segunda e a terceira captura: a lista completa soma **R$ 136,00** com
 dois produtos, enquanto a tela do comerciante Leanne Graham soma **R$ 11,00** com apenas o produto
